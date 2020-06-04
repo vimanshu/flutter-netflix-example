@@ -1,6 +1,7 @@
-# ui_app
+# flutter-basic-netflix-app
 
-A new Flutter application.
+
+Watch mov to see what you may expect of this UI framework.
 
 ## Getting Started
 
